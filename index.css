@@ -1,0 +1,42 @@
+div, body, html {
+    margin:0;
+}
+
+#TopBar {
+    width:400px;
+    background-color: orange;
+    padding:5px 10px 20px 3px;
+    margin:0px auto 10px auto;
+    width:100%;
+}
+
+#TopBar a {
+    text-decoration: none;
+    color:white;
+    padding:5px 10px 20px 3px;
+}
+
+#TopBarLeft {
+    float:left;
+}
+
+#TopBarRight {
+    float:right;
+}
+
+.BoxText4 {
+    padding:10px 10px 10px 10px;
+    border:1px solid orange;
+    float:left;
+    width:300px;
+    margin:5px 5px 5px 5px;
+}
+
+.MoreInfo {
+    width:20px;
+    background-color: orange;
+    padding:3px 3px 3px 3px;
+    margin:5px auto;
+    width:80px;
+    text-align: center;
+}
